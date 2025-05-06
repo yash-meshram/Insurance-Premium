@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project predicts insurance premium amounts using advanced machine learning techniques, with a focus on robust feature engineering, data preprocessing, and model validation. The solution leverages LightGBM with cross-validation and ensemble methods to maximize predictive performance. The workflow is designed for reproducibility and extensibility.
+The goal of this project is to predict insurance premiums based on various factors. This project predicts insurance premium amounts using advanced machine learning techniques, with a focus on robust feature engineering, data preprocessing, and model validation. The solution leverages LightGBM with cross-validation and ensemble methods to maximize predictive performance. The workflow is designed for reproducibility and extensibility.
 
 
 
